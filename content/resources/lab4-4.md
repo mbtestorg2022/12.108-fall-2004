@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Gypsum twins: CaSO4\-2H2O.'
   credit: Courtesy of OCW.
   image-alt: gypsum is calcium sulfate.
+parent_uid: 394fa709-f46b-f920-8a2f-14672616bd39
 resourcetype: Image
 title: lab4-4.jpg
 uid: 328fb82d-2a9b-2a07-c3f9-dab9bb5a7367

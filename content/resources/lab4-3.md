@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Massive granular sylvite: KCl.'
   credit: Courtesy of OCW.
   image-alt: sylvite is potassium chloride.
+parent_uid: 0dfe48aa-ba11-c61c-d02f-246d0e4d4e97
 resourcetype: Image
 title: lab4-3.jpg
 uid: 672010dc-3e97-ef34-8649-50b40057792e

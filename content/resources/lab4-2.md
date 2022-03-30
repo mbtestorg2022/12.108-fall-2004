@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Intergrown halite cubes: NaCl.'
   credit: Courtesy of OCW.
   image-alt: halite is sodium chloride.
+parent_uid: 0dfe48aa-ba11-c61c-d02f-246d0e4d4e97
 resourcetype: Image
 title: lab4-2.jpg
 uid: 9df25995-8c5a-77c7-dbef-ece6b5f9d82a

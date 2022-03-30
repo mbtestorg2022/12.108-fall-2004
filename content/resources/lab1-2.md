@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Sulfur: S.'
   credit: Courtesy of OCW.
   image-alt: sulfur.
+parent_uid: 578de661-c490-80b4-c061-32cda85444b3
 resourcetype: Image
 title: lab1-2.jpg
 uid: 11a4121e-fada-717c-6007-c6e98864e283

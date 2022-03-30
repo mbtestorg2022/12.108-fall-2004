@@ -6,6 +6,7 @@ description: 'Notes from the lecture covering the following topics: Review quest
   and bibliography.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-108-structure-of-earth-materials-fall-2004/831fea8b4c3883578614a2b1f8097644_lec15.pdf
 file_type: application/pdf
+parent_uid: 7d296d81-2189-7753-1ebc-270cd7db3a21
 resourcetype: Document
 title: lec15.pdf
 uid: 831fea8b-4c38-8357-8614-a2b1f8097644

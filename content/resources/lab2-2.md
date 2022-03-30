@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Garnet: (Mg,Fe,Mn,Ca)3Al2Si3O12.'
   credit: Courtesy of OCW.
   image-alt: garnet.
+parent_uid: 025f5e90-c11a-2ee5-6b09-b097d7d93d2a
 resourcetype: Image
 title: lab2-2.jpg
 uid: be31d06d-d122-dda4-ef07-fbcfc4b71083

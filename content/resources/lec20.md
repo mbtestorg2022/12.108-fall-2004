@@ -10,6 +10,7 @@ description: 'Notes from the lecture covering the following topics: Assigned rea
   principal stress representation.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-108-structure-of-earth-materials-fall-2004/1f8c6f71911526f241cfc9485376d011_lec20.pdf
 file_type: application/pdf
+parent_uid: 7d296d81-2189-7753-1ebc-270cd7db3a21
 resourcetype: Document
 title: lec20.pdf
 uid: 1f8c6f71-9115-26f2-41cf-c9485376d011

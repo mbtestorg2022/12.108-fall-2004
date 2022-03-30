@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Bladed kyanite: Al2SiO5.'
   credit: Courtesy of OCW.
   image-alt: kyanite is an aluminum silicate.
+parent_uid: 025f5e90-c11a-2ee5-6b09-b097d7d93d2a
 resourcetype: Image
 title: lab2-7.jpg
 uid: 2a04cacb-0fbc-d0cc-a8b0-50dba588fd15

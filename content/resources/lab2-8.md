@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Andalusite (chiastolite) in mica schist: Al2SiO5.'
   credit: Courtesy of OCW.
   image-alt: andalusite is an aluminum silicate.
+parent_uid: 025f5e90-c11a-2ee5-6b09-b097d7d93d2a
 resourcetype: Image
 title: lab2-8.jpg
 uid: 3bdc0779-fcd9-1ce3-e640-d6cf158e37d9

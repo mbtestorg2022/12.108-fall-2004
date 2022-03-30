@@ -7,6 +7,7 @@ image_metadata:
   caption: Garnet mica schist.
   credit: Courtesy of OCW.
   image-alt: garnet mica schist.
+parent_uid: 025f5e90-c11a-2ee5-6b09-b097d7d93d2a
 resourcetype: Image
 title: lab2-5.jpg
 uid: d2a4ba28-1999-c603-b474-4c51284187eb

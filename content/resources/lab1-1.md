@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Graphite: C.'
   credit: Courtesy of OCW.
   image-alt: graphite is carbon.
+parent_uid: 578de661-c490-80b4-c061-32cda85444b3
 resourcetype: Image
 title: lab1-1.jpg
 uid: 4c6ed727-36c4-c9e1-707b-31c1f4a77543

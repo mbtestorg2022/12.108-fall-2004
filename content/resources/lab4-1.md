@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Fluorite: CaF2.'
   credit: Courtesy of OCW.
   image-alt: fluorite is calcium fluoride.
+parent_uid: 0dfe48aa-ba11-c61c-d02f-246d0e4d4e97
 resourcetype: Image
 title: lab4-1.jpg
 uid: 0758f883-d48b-9c60-56c4-22af1f858267
